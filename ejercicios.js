@@ -47,7 +47,8 @@ function operacionesBasicas(a, b) {
  */
 function areaRectangulo(base, altura) {
   // TODO: Calcula y retorna el Ã¡rea (base * altura)
-  return 0;
+  const area = base * altura;
+  return area;
 }
 
 /**
