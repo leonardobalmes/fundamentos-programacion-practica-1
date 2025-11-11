@@ -2,9 +2,9 @@
 
 ## 👨‍💻 Información del Estudiante
 
-- **Nombre:** [Tu nombre completo]
-- **Matrícula:** [Tu matrícula]
-- **Grupo:** [A/B/C]
+- **Nombre:** [Leonardo Balmes Solis]
+- **Matrícula:** [SW2509016]
+- **Grupo:** [B]
 - **Cuatrimestre:** Primer Cuatrimestre
 - **Carrera:** TSU en Desarrollo e Innovación de Software
 - **Profesor:** Jorge Javier Pedrozo Romero
@@ -230,8 +230,8 @@ git log --oneline --graph --decorate
 
 ## 📧 Contacto
 
-- **Email Institucional:** [tu-correo@institucional.edu.mx]
-- **GitHub:** [@TU-USUARIO](https://github.com/TU-USUARIO)
+- **Email Institucional:** [leonardo.balmes@tecdesoftware.edu.mx]
+- **GitHub:** [@leonardobalmes]([https://github.com/TU-USUARIO](https://github.com/leonardobalmes))
 
 ---
 
